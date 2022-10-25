@@ -1,0 +1,8 @@
+README.md
+setup.py
+joeprime/__init__.py
+joeprime/prime_numbers.py
+joeprime.egg-info/PKG-INFO
+joeprime.egg-info/SOURCES.txt
+joeprime.egg-info/dependency_links.txt
+joeprime.egg-info/top_level.txt
